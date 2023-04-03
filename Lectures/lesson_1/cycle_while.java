@@ -1,4 +1,4 @@
-public class cycles {
+public class cycle_while {
     public static void main(String[] args) {
         int value = 321;
         int count = 0;
