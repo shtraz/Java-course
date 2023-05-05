@@ -3,6 +3,7 @@
 // Требуется восстановить выражение до верного равенства.
 // Предложить хотя бы одно решение или сообщить, что его нет.
 
+
 public class AdditionalTask {
     public static void main(String[] args) {
         int solution = 0;
