@@ -1,3 +1,4 @@
+//Вычислить n-ое треугольного число (сумма чисел от 1 до n)
 import java.util.Scanner;
 
 public class TriangularNumber {
