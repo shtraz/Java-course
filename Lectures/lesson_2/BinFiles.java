@@ -1,5 +1,3 @@
-package Lesson_02;
-
 import java.io.*;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
@@ -9,15 +7,14 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
-public class Ex004_bFile {
-
+public class BinFiles {
     static ByteOrder bOrder = ByteOrder.LITTLE_ENDIAN;
     static Map<String, String> data = new HashMap<>();
     static Charset charset = StandardCharsets.UTF_8;
 
     static void loadFile(String path) throws IOException {
-        try (InputStream stream = 
-        new BufferedInputStream(new FileInputStream(path))) {
+        try (InputStream stream =
+                     new BufferedInputStream(new FileInputStream(path))) {
             int n = readInt(stream);
             int b1;
             int b2;
@@ -30,8 +27,8 @@ public class Ex004_bFile {
                 b2 = stream.read(binText);
                 if (b1 != binWord.length || b2 != binText.length)
                     throw new IOException("Error read file");
-                data.put(new String(binWord, charset), 
-                         new String(binText, charset));
+                data.put(new String(binWord, charset),
+                        new String(binText, charset));
             }
         }
     }
@@ -67,7 +64,7 @@ public class Ex004_bFile {
     static String find(String word) {
         String out = data.get(word);
         if (out == null)
-            return "РЅРµ РЅР°Р№РґРµРЅРѕ";
+            return "не найдено";
         else
             return out;
     }
@@ -89,17 +86,17 @@ public class Ex004_bFile {
     public static void main(String[] args) {
         String file = "test.bin";
         //create file
-        
+
         try {
-            add("key1", "Р·РЅР°С‡РµРЅРёРµ 1");
-            add("key2", "Р·РЅР°С‡РµРЅРёРµ 2");
-            add("key4", "Р·РЅР°С‡РµРЅРёРµ 3");
+            add("key1", "значение 1");
+            add("key2", "значение 2");
+            add("key4", "значение 3");
             saveFile(file);
         } catch (Exception e) {
             e.printStackTrace();
         }
         //read file
-        
+
         try {
             loadFile(file);
             String key1 = "key1";

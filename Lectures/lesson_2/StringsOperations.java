@@ -1,0 +1,11 @@
+public class StringsOperations {
+    public static void main(String[] args) {
+        String[] name = {"C", "е", "р", "г", "е", "й"};
+        String sk = "—≈–√≈…  ј.";
+        System.out.println(sk.toLowerCase()); // сергей ка.
+        System.out.println(String.join("", name)); // Cергей
+        System.out.println(String.join(", ", name)); // C, е, р, г, е, й
+        System.out.println(String.join("", "C", "е", "р", "г", "е", "й")); // Cергей
+        System.out.println(String.join(",", "C", "е", "р", "г", "е", "й")); // C,е,р,г,е,й
+    }
+}

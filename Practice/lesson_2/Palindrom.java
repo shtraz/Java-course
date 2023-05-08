@@ -1,5 +1,3 @@
-package lesson_2;
-
 public class Palindrom {
     static boolean isPalindrom(String str) {
 //        String temp = new StringBuilder(str).reverse().toString();

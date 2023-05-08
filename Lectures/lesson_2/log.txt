@@ -1,0 +1,4 @@
+мая 08, 2023 2:12:12 PM LoggerFile main
+WARNING: Тестовое логирование 1
+мая 08, 2023 2:12:12 PM LoggerFile main
+INFO: Тестовое логирование 2

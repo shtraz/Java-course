@@ -1,7 +1,7 @@
-package Lesson_02;
-import java.io.*;
+import java.io.File;
+import java.io.FileWriter;
 
-public class Ex003_tryDemo {
+public class TryDemo {
     public static void main(String[] args) {
         String line = "empty";
         try {
@@ -18,8 +18,8 @@ public class Ex003_tryDemo {
                 fileWriter.write("new line");
 
                 //#region lineSeparator
-                // A string containing "\r\n" for non-Unix 
-                // platforms, or a string containing 
+                // A string containing "\r\n" for non-Unix
+                // platforms, or a string containing
                 // "\n" for Unix platforms.
                 fileWriter.append(System.lineSeparator());
                 //#endregion

@@ -4,7 +4,6 @@
 //a b
 //ababab
 
-package lesson_2;
 import java.util.Scanner;
 
 public class less2_1GenerateString {
