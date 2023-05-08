@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7c75ca8-b054-4f2d-8988-0e8fe23ff3e1" name="Changes" comment="finish lesson_1">
-      <change afterPath="$PROJECT_DIR$/Practice/lesson_2/students.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/lesson_1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_1/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/lesson_1/calculatorLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_1/calculatorLog.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/lesson_2/bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/bubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/students.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/students.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice/less_1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/less_1_1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Practice/less_1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/less_1_2.class" afterDir="false" />
     </list>
@@ -76,7 +79,7 @@
       <recent name="C:\Users\shtraz\IdeaProjects\Java-course\Lectures\lesson_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.students">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="Practice" />
@@ -114,9 +117,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.students" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.bubbleSort" />
+        <item itemvalue="Application.students" />
         <item itemvalue="Application.less_1_2" />
         <item itemvalue="Application.LoggerFile" />
       </list>
