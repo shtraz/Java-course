@@ -1,0 +1,8 @@
+мая 08, 2023 4:15:35 PM Calculator main
+INFO: Введено первое число: 50
+мая 08, 2023 4:15:35 PM Calculator main
+INFO: Введена операция вычисления: /
+мая 08, 2023 4:15:37 PM Calculator main
+INFO: Введено второе число: 10
+мая 08, 2023 4:15:37 PM Calculator main
+INFO: Получен ответ: 50 / 10 = 5

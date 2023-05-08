@@ -5,51 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7c75ca8-b054-4f2d-8988-0e8fe23ff3e1" name="Changes" comment="finish lesson_1">
-      <change afterPath="$PROJECT_DIR$/Lectures/lesson_2/API_Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectures/lesson_2/StringBuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectures/lesson_2/StringsOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectures/lesson_2/TryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectures/lesson_2/read_file.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/lesson_2/students.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/Lectures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/Lectures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/Lesson_02/Ex001_stringsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/Lesson_02/Ex002_fileSystemDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_2/AppendFileTxt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/Lesson_02/Ex003_tryDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/Lesson_02/Ex004_bFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_2/BinFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/Lesson_02/Ex005_Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_2/LoggerFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/Lesson_02/log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/__MACOSX/._Lesson_02" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/__MACOSX/Lesson_02/._Ex001_stringsDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/__MACOSX/Lesson_02/._Ex002_fileSystemDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/__MACOSX/Lesson_02/._Ex003_tryDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/__MACOSX/Lesson_02/._Ex004_bFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/__MACOSX/Lesson_02/._Ex005_Logger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Java. Урок 2. Дополнительные материалы/__MACOSX/Lesson_02/._log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/lesson_2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_2/Презентация 2. Почему вы не можете не использовать API.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex000.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex000.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex001.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex002.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex003.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex004.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex005.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex005_ArraysMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex005_ArraysMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex006.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex007.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex007.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/lesson_3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/lesson_3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/Practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_1/Новый текстовый документ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_1/Новый текстовый документ.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/Palindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/lesson_1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_1/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice/lesson_2/bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/bubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/less2_1GenerateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/less2_1GenerateString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/less2_2ZipString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/less2_2ZipString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/less2_3Palindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/less2_3Palindrom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/less2_3PalindromV2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/home_work_less_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/Новый текстовый документ.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/Новый текстовый документ.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/less_1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/less_1_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Practice/less_1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/less_1_2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,17 +76,10 @@
       <recent name="C:\Users\shtraz\IdeaProjects\Java-course\Lectures\lesson_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoggerFile">
-    <configuration name="AppendFileTxt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AppendFileTxt" />
-      <module name="Lectures" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinFiles" />
-      <module name="Lectures" />
+  <component name="RunManager" selected="Application.students">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,27 +91,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TryDemo" />
-      <module name="Lectures" />
+    <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bubbleSort" />
+      <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="read_file" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="read_file" />
-      <module name="Lectures" />
+    <configuration name="less_1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="less_1_2" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="students" />
+      <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.students" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.bubbleSort" />
+        <item itemvalue="Application.less_1_2" />
         <item itemvalue="Application.LoggerFile" />
-        <item itemvalue="Application.read_file" />
-        <item itemvalue="Application.BinFiles" />
-        <item itemvalue="Application.TryDemo" />
-        <item itemvalue="Application.AppendFileTxt" />
       </list>
     </recent_temporary>
   </component>
