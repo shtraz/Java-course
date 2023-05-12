@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7c75ca8-b054-4f2d-8988-0e8fe23ff3e1" name="Changes" comment="finish lesson_1">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/lesson_3/less_3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/lesson_3/less_3_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_1/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_1/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_1/calculatorLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_1/calculatorLog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/bubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/students.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice/lesson_2/students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_2/students.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/less_1_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/less_1_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Practice/less_1_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Practice/less_1_2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,18 +71,14 @@
       <recent name="C:\Users\shtraz\IdeaProjects\Java-course\Lectures\lesson_2\Java. Урок 2. Дополнительные материалы\Lesson_02" />
       <recent name="C:\Users\shtraz\IdeaProjects\Java-course\Lectures\lesson_2" />
     </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="myList" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.less_3_3">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="Practice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoggerFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoggerFile" />
-      <module name="Lectures" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -101,27 +90,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="less_1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="less_1_2" />
-      <module name="Practice" />
+    <configuration name="cycle_for_in" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cycle_for_in" />
+      <module name="Lectures" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="students" />
+    <configuration name="less_3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_3.less_3_2" />
       <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="less_3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson_3.less_3_3" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.less_3_3" />
+        <item itemvalue="Application.less_3_2" />
+        <item itemvalue="Application.cycle_for_in" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.bubbleSort" />
-        <item itemvalue="Application.students" />
-        <item itemvalue="Application.less_1_2" />
-        <item itemvalue="Application.LoggerFile" />
       </list>
     </recent_temporary>
   </component>
