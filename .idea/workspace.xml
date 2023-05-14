@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c75ca8-b054-4f2d-8988-0e8fe23ff3e1" name="Changes" comment="finish lesson_1">
-      <change afterPath="$PROJECT_DIR$/Lectures/lesson_3/ArrayList_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex01_object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex01_object_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/lesson_4/less_4_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/Lectures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/Lectures.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex000.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex001.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex002.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex003.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex004.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex004.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex005.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex005.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex005_ArraysMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex005_ArraysMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex006.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex006.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex007.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Iterator_primer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/._Lesson_03" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex000.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex002.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex003.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex004.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex005.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex005_ArraysMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex006.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex007.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d7c75ca8-b054-4f2d-8988-0e8fe23ff3e1" name="Changes" comment="finish lesson_1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
