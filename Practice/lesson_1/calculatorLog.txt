@@ -1,0 +1,8 @@
+мая 08, 2023 4:55:31 PM Calculator main
+INFO: Введено первое число: 6
+мая 08, 2023 4:55:33 PM Calculator main
+INFO: Введена операция вычисления: *
+мая 08, 2023 4:55:34 PM Calculator main
+INFO: Введено второе число: 4
+мая 08, 2023 4:55:34 PM Calculator main
+INFO: Получен ответ: 6 * 4 = 24
