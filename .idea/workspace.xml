@@ -71,7 +71,7 @@
       <recent name="myList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.less_3_3">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="Practice" />
@@ -121,10 +121,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.less_3_3" />
         <item itemvalue="Application.less_3_2" />
         <item itemvalue="Application.cycle_for_in" />
-        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.bubbleSort" />
       </list>
     </recent_temporary>
