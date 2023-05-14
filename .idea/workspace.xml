@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c75ca8-b054-4f2d-8988-0e8fe23ff3e1" name="Changes" comment="finish lesson_1" />
+    <list default="true" id="d7c75ca8-b054-4f2d-8988-0e8fe23ff3e1" name="Changes" comment="finish lesson_1">
+      <change afterPath="$PROJECT_DIR$/Lectures/lesson_3/ArrayList_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex01_object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex01_object_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/lesson_4/less_4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/Lectures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/Lectures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex000.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex001.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex002.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex003.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex003.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex004.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex005.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex005.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex005_ArraysMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex005_ArraysMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex006.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Ex006.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/Lesson_03/Ex007.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lectures/lesson_3/Iterator_primer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/._Lesson_03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex000.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex005_ArraysMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lectures/lesson_3/Java. Урок 3. Дополнительные материалы/__MACOSX/Lesson_03/._Ex007.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +90,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shtraz\IdeaProjects\Java-course\Lectures\lesson_3" />
       <recent name="C:\Users\shtraz\IdeaProjects\Java-course\Lectures\lesson_2\Java. Урок 2. Дополнительные материалы\Lesson_02" />
       <recent name="C:\Users\shtraz\IdeaProjects\Java-course\Lectures\lesson_2" />
     </key>
@@ -71,61 +98,49 @@
       <recent name="myList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
-      <module name="Practice" />
+  <component name="RunManager" selected="Application.Iterator_primer">
+    <configuration name="ArrayList_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList_1" />
+      <module name="lesson_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bubbleSort" />
-      <module name="Practice" />
+    <configuration name="Ex002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex002" />
+      <module name="lesson_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cycle_for_in" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cycle_for_in" />
-      <module name="Lectures" />
+    <configuration name="Ex005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex005" />
+      <module name="lesson_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="less_3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_3.less_3_2" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Ex006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex006" />
+      <module name="lesson_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="less_3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson_3.less_3_3" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Iterator_primer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Iterator_primer" />
+      <module name="lesson_3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.less_3_3" />
-        <item itemvalue="Application.less_3_2" />
-        <item itemvalue="Application.cycle_for_in" />
-        <item itemvalue="Application.bubbleSort" />
+        <item itemvalue="Application.Iterator_primer" />
+        <item itemvalue="Application.Ex006" />
+        <item itemvalue="Application.Ex005" />
+        <item itemvalue="Application.ArrayList_1" />
+        <item itemvalue="Application.Ex002" />
       </list>
     </recent_temporary>
   </component>

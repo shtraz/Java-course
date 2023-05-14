@@ -1,9 +1,6 @@
-package Lesson_03;
-
 public class Ex001 {
     static int[] AddItemInArray(int[] array, int item) {
         int length = array.length;
-        
         int[] temp = new int[length + 1];
         System.arraycopy(array, 0, temp, 0, length);
         temp[length] = item;
@@ -18,6 +15,5 @@ public class Ex001 {
         a = AddItemInArray(a, 1111);
         System.out.println();
         for (int j : a) { System.out.printf("%d ", j); }
-        System.out.println();
     }
 }
