@@ -28,7 +28,7 @@ import java.util.Random;
 public class Main
 {
 	public static void main(String[] args) {
-		LinkedList<Integer> myList = new LinkedList<>();
+	LinkedList<Integer> myList = new LinkedList<>();
         RandomList(10, 10, myList);
         System.out.println(myList);
 
@@ -47,14 +47,14 @@ public class Main
      public static void RandomList(int count, int maxValue, LinkedList<Integer> list) {
         Random rand = new Random();
         
-         for (int i = 0; i < count; i++) {
+        for (int i = 0; i < count; i++) {
             list.add(rand.nextInt(maxValue));
         }
     }
     
     
     public static void enqueue(LinkedList<Integer> list, int value) {
-         list.add(value);
+        list.add(value);
     }
 
 
