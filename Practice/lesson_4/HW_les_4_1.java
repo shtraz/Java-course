@@ -16,10 +16,10 @@ public class Main
 	public static void main(String[] args) {
 		LinkedList<Integer> myList = new LinkedList<>();
         RandomList(10, 10, myList);
-        LinkedList<Integer> newLL = ReverseMyList(myList);
+        LinkedList<Integer> newList = ReverseMyList(myList);
 
         System.out.println(myList.toString());
-        System.out.println(newLL.toString());
+        System.out.println(newList.toString());
     }
 
     public static LinkedList<Integer> ReverseMyList(LinkedList<Integer> list) {
