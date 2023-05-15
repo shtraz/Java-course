@@ -35,7 +35,7 @@ public class Main
      public static void RandomList(int count, int maxValue, LinkedList<Integer> list) {
         Random rand = new Random();
         
-         for (int i = 0; i < count; i++) {
+        for (int i = 0; i < count; i++) {
             list.add(rand.nextInt(maxValue));
         }
     }
