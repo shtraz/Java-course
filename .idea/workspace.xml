@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c75ca8-b054-4f2d-8988-0e8fe23ff3e1" name="Changes" comment="finish lesson_1" />
+    <list default="true" id="d7c75ca8-b054-4f2d-8988-0e8fe23ff3e1" name="Changes" comment="finish lesson_1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/lesson_4/HW_les_4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_4/HW_les_4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/lesson_4/HW_les_4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/lesson_4/HW_les_4_2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,31 +76,24 @@
       <recent name="myList" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Iterator_primer">
-    <configuration name="ArrayList_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList_1" />
-      <module name="lesson_3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex002" />
-      <module name="lesson_3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex005" />
-      <module name="lesson_3" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.HW_les_4_2">
     <configuration name="Ex006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex006" />
       <module name="lesson_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW_les_4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_les_4_1" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW_les_4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_les_4_2" />
+      <module name="Practice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,13 +105,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW_les_4_2" />
+        <item itemvalue="Application.HW_les_4_1" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Iterator_primer" />
         <item itemvalue="Application.Ex006" />
-        <item itemvalue="Application.Ex005" />
-        <item itemvalue="Application.ArrayList_1" />
-        <item itemvalue="Application.Ex002" />
       </list>
     </recent_temporary>
   </component>

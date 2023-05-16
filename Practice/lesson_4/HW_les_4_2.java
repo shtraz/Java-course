@@ -1,10 +1,10 @@
 /******************************************************************************
 
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
+ Online Java Compiler.
+ Code, Compile, Run and Debug java program online.
+ Write your code in this editor and press "Run" button to execute it.
+ *******************************************************************************/
 
-*******************************************************************************/
 import java.util.LinkedList;
 import java.util.Random;
 
@@ -25,34 +25,33 @@ import java.util.Random;
 // spisok.first()
 // 2
 
-public class Main
-{
-	public static void main(String[] args) {
-	LinkedList<Integer> myList = new LinkedList<>();
+public class HW_les_4_2 {
+    public static void main(String[] args) {
+        LinkedList<Integer> myList = new LinkedList<>();
         RandomList(10, 10, myList);
         System.out.println(myList);
 
         enqueue(myList, 5);
         System.out.println(myList);
-        
+
         System.out.println(dequeue(myList));
         System.out.println(myList);
-        
+
         System.out.println(first(myList));
         System.out.println(myList);
 
     }
 
 
-     public static void RandomList(int count, int maxValue, LinkedList<Integer> list) {
+    public static void RandomList(int count, int maxValue, LinkedList<Integer> list) {
         Random rand = new Random();
-        
+
         for (int i = 0; i < count; i++) {
             list.add(rand.nextInt(maxValue));
         }
     }
-    
-    
+
+
     public static void enqueue(LinkedList<Integer> list, int value) {
         list.add(value);
     }
