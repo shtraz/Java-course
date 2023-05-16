@@ -1,0 +1,26 @@
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: element
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: element
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: element
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: element
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: element
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: element
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: element
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: element
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: element
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: element
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+WARNING: logger off
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+INFO: test
+мая 16, 2023 8:30:58 PM lesson_3.LoggerTest main
+WARNING: logsgogg
