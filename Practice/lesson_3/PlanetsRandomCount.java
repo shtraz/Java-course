@@ -71,6 +71,7 @@ public class PlanetsRandomCount {
 
         time3 = System.nanoTime() - time3;
         System.out.printf("\nElapsed %,9.3f ms\n", time3 / 1_000_000.0);
+
 //        System.out.println("result : "+
 //                Arrays.stream(new String[]{planets[rd.nextInt(planets.length)]})
 //                        .collect(groupingBy(Function.identity(),counting())));

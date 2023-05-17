@@ -11,6 +11,7 @@ public class RandomSort {
         ArrayList<Integer> arr = new ArrayList<>();
         Random rd = new Random();
         int counter = 0;
+
         while (counter != arrLength) {
             arr.add(rd.nextInt(0, 10));
             counter += 1;

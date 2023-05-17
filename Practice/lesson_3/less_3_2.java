@@ -8,6 +8,7 @@ public class less_3_2 {
     public static void main(String[] args) {
         Random rnd = new Random();
         ArrayList<Integer> list1 = new ArrayList<>();
+
         for (int i = 0; i < 10; i++) {
             int val = rnd.nextInt(0, 100);
             list1.add(val);

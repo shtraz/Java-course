@@ -10,7 +10,8 @@ import static java.util.Collections.min;
 public class less_3_3 {
     public static void main(String[] args) {
         Random rnd = new Random();
-        ArrayList<Integer> myList = new ArrayList<Integer>();
+        ArrayList<Integer> myList = new ArrayList<>();
+
         for (int i = 0; i < 10; i++) {
             int val = rnd.nextInt(0, 100);
             myList.add(val);
@@ -20,9 +21,11 @@ public class less_3_3 {
         int min = min(myList);
 
         int sumItems = 0;
+
         for (int item : myList) {
             sumItems += item;
         }
+
         float average = (float) sumItems / myList.size();
         System.out.printf("MAX = %s\n", max);
         System.out.printf("MIN = %s\n", min);

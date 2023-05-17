@@ -15,6 +15,7 @@ public class LoggerTest {
         ll.addHandler(fh);
         SimpleFormatter formatter = new SimpleFormatter();
 //        XMLFormatter formatter = new XMLFormatter();
+
         fh.setFormatter(formatter);
         Random rand = new Random();
         for (int i = 0; i < 10; i++) {
