@@ -34,7 +34,7 @@ public class less_4_LinkedListExample_2 {
                 System.out.println(list);
             }else {
                 // if (line.length() > 5 && line.charAt(5) == '~') {
-                if (line.length() > 5 && line.substring(0, 6).equals("print~")) {
+                if (line.length() > 6 && line.substring(0, 6).equals("print~")) {
                     ind = line.substring(6, line.length());
                     i = Integer.parseInt(ind);
                     System.out.println(list.get(i - 1));
